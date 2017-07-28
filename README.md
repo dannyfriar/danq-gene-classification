@@ -1,1 +1,1 @@
-# rl_lstm
+# Gene CNN
